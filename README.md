@@ -12,12 +12,12 @@ I chose Mozilla Firefox as my reference software and built small scripts around 
 
 Through this project, I explored:
 
-🖥️ System-level information and identity
-📦 Open-source package inspection
-🔐 File permissions and disk usage
-📊 Log file analysis
-💡 The philosophy behind open-source
-🛠️ Scripts Included
+🖥️ System-level information and identity<br>
+📦 Open-source package inspection<br>
+🔐 File permissions and disk usage<br>
+📊 Log file analysis<br>
+💡 The philosophy behind open-source<br>
+🛠️ Scripts Included<br>
 🔹 Script 1: System Identity Report
 
 Gives a quick overview of the system:
@@ -27,22 +27,22 @@ Kernel version
 Current user
 Uptime
 Date
-Connects it to open-source licensing (GPL)
+Connects it to open-source licensing (GPL)<br>
 🔹 Script 2: FOSS Package Inspector
 Checks if a package (like Firefox) is installed
 Displays version, maintainer, and description
-Adds a short human-friendly explanation
+Adds a short human-friendly explanation<br>
 🔹 Script 3: Disk & Permission Auditor
 Scans important directories like /etc, /home, /tmp
 Shows:
 Permissions
 Owner/group
 Directory size
-Also checks Firefox configuration directory
+Also checks Firefox configuration directory<br>
 🔹 Script 4: Log File Analyzer
 Takes a log file and a keyword (default: error)
 Counts occurrences of the keyword
-Displays last 5 matching lines
+Displays last 5 matching lines<br>
 🔹 Script 5: Open Source Manifesto Generator
 Asks you 3 simple questions
 Generates your own open-source manifesto
@@ -51,13 +51,14 @@ Saves it as a text file
 ⚙️ How to Run
 1️⃣ Clone the repository
 git clone https://github.com/Arushi28-hub/oss-audit-24BCE10514.git
-cd oss-audit-24BCE10514
+cd oss-audit-24BCE10514<br>
 2️⃣ Make scripts executable
-chmod +x script.sh script2.sh script3.sh script4.sh script5.sh
+chmod +x script.sh script2.sh script3.sh script4.sh script5.sh<br>
 3️⃣ Run any script
-./script.sh
+./script.sh<br>
 4️⃣ Run log analyzer
 ./script4.sh logfile.txt error<br>
+
 💡 What I Learned
 
 This project helped me understand that open-source is not just about free software—it’s about:
