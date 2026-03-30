@@ -7,7 +7,7 @@ Hi, I’m Arushi Bakshi, and this repository is part of my Open Source Software 
 Instead of just reading theory, I wanted to actually see how things work in a real system. So I created a set of Bash scripts that explore, inspect, and analyze different aspects of an open-source environment.
 
 I chose Mozilla Firefox as my reference software and built small scripts around it to understand how open-source tools behave at the system level.
-
+<br>
 🎯 What This Project Covers
 
 Through this project, I explored:
@@ -47,6 +47,7 @@ Displays last 5 matching lines
 Asks you 3 simple questions
 Generates your own open-source manifesto
 Saves it as a text file
+<br>
 ⚙️ How to Run
 1️⃣ Clone the repository
 git clone https://github.com/Arushi28-hub/oss-audit-24BCE10514.git
@@ -56,7 +57,7 @@ chmod +x script.sh script2.sh script3.sh script4.sh script5.sh
 3️⃣ Run any script
 ./script.sh
 4️⃣ Run log analyzer
-./script4.sh logfile.txt error
+./script4.sh logfile.txt error<br>
 💡 What I Learned
 
 This project helped me understand that open-source is not just about free software—it’s about:
