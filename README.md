@@ -71,7 +71,7 @@ It also improved my skills in:
 
 Bash scripting
 Linux commands
-System-level thinking
+System-level thinking<br>
 📌 Final Thoughts
 
 This project is a small step into the world of open-source auditing and system analysis.
